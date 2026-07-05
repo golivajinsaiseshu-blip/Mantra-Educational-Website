@@ -51,6 +51,7 @@ MANTRA Academy Chennai is a modern educational institute website created using H
 ## 🌐 Live Demo
 
 Deployed using **Netlify**.
+live- https://mantra-academy-vss20.netlify.app/
 
 
 ## 📂 Project Structure
